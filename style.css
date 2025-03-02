@@ -207,3 +207,14 @@ a{
 .player-control-icon:hover{
     opacity: 1;
 }
+.progress-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.progress-bar{
+    width: 70%;
+    appearance: none;
+    background-color: transparent;
+
+}
